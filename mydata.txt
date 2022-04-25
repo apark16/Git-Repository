@@ -1,3 +1,5 @@
 Name: Angie Park
+Affiliation: Management
 Program: Postdoc in Management
 Research Area: DEI pedagogy
+Programming Languages: none
